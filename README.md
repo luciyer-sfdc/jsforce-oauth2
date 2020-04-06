@@ -27,3 +27,5 @@ CLIENT_ID=XXXX
 CLIENT_SECRET=XXXX
 BASE_URL=http://localhost:8080
 ```
+
+_Note: Base URL must change if you deploy this to a server, as well as you'll need to update the connected app in your dev org (and wait for it to propogate those changes - sometimes can take several minutes.)_
