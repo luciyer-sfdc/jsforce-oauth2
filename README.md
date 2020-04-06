@@ -44,3 +44,7 @@ In your browser, visit [http://localhost:8080/oauth2/authorize](http://localhost
 
 You should automatically be redirected to a Salesforce login page, and after logging in you should be kicked back to
 [http://localhost:8080/oauth2/callback](http://localhost:8080/oauth2/callback), with a valid session token.
+
+All done!
+
+---
