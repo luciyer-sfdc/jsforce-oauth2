@@ -1,6 +1,6 @@
 # jsforce-oauth2
 
-Using [node](), [express](), and [jsforce]().
+Using [node](https://nodejs.org/en/), [express](https://expressjs.com/), and [jsforce](https://jsforce.github.io/).
 
 ### Setup
 
