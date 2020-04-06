@@ -1,0 +1,29 @@
+{
+  "name": "jsforce-oauth2",
+  "version": "1.0.0",
+  "description": "Simply set up jsforce oauth2 with Salesforce",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luciyer-sfdc/jsforce-oauth2.git"
+  },
+  "keywords": [
+    "jsforce",
+    "oauth2",
+    "salesforce"
+  ],
+  "author": "Luc Iyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luciyer-sfdc/jsforce-oauth2/issues"
+  },
+  "homepage": "https://github.com/luciyer-sfdc/jsforce-oauth2#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsforce": "^1.9.3"
+  }
+}
