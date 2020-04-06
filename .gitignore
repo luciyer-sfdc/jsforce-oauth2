@@ -1,3 +1,6 @@
-*.git
-node_modules
 *.env
+**/.DS_Store
+*.cert
+*.key
+node_modules
+package-lock.json
